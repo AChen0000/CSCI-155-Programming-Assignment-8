@@ -1,8 +1,12 @@
 /*
- * Programming Assignment 8
- * Name: Ann C.
- * Purpose: MyInteger class with tests. Added n3 to test for extra stuff.
- * Date: April 9
+Programming Assignment 8
+Name: Ann C.
+Purpose: The purpose of this program is to create a class called MyInteger
+that can check if a number is even, odd, or prime, compare values, 
+and convert strings or character arrays into integers. 
+It also tests these methods using sample values and user input. 
+The loop will stop when the user enters'end'.
+Date: April 9
  */
 
 import java.util.Scanner;
